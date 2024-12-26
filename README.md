@@ -1,0 +1,2 @@
+---
+Trabalho simples envolvendo inputs
